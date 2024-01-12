@@ -1,4 +1,4 @@
-# introduction_ai_python
+# Introduction to AI with Python
 
 The project contains example about AI developed with python and some AI libraries:
 
