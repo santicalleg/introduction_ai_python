@@ -1,0 +1,23 @@
+{
+  "0906.5243v1": {
+    "title": "Application of Monte Carlo-based statistical significance determinations to the Beta Cephei stars V400 Car, V401 Car, V403 Car and V405 Car",
+    "authors": [
+      "C. A. Engelbrecht",
+      "F. A. M. Frescura",
+      "B. S. Frank"
+    ],
+    "summary": "We have used Lomb-Scargle periodogram analysis and Monte Carlo significance\ntests to detect periodicities above the 3-sigma level in the Beta Cephei stars\nV400 Car, V401 Car, V403 Car and V405 Car. These methods produce six previously\nunreported periodicities in the expected frequency range of excited pulsations:\none in V400 Car, three in V401 Car, one in V403 Car and one in V405 Car. One of\nthese six frequencies is significant above the 4-sigma level. We provide\nstatistical significances for all of the periodicities found in these four\nstars.",
+    "pdf_url": "http://arxiv.org/pdf/0906.5243v1",
+    "published": "2009-06-29"
+  },
+  "2002.02070v1": {
+    "title": "Understanding Car-Speak: Replacing Humans in Dealerships",
+    "authors": [
+      "Habeeb Hooshmand",
+      "James Caverlee"
+    ],
+    "summary": "A large portion of the car-buying experience in the United States involves\ninteractions at a car dealership. At the dealership, the car-buyer relays their\nneeds to a sales representative. However, most car-buyers are only have an\nabstract description of the vehicle they need. Therefore, they are only able to\ndescribe their ideal car in \"car-speak\". Car-speak is abstract language that\npertains to a car's physical attributes. In this paper, we define car-speak. We\nalso aim to curate a reasonable data set of car-speak language. Finally, we\ntrain several classifiers in order to classify car-speak.",
+    "pdf_url": "http://arxiv.org/pdf/2002.02070v1",
+    "published": "2020-02-06"
+  }
+}

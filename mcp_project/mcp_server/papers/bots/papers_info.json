@@ -1,0 +1,14 @@
+{
+  "1609.00543v1": {
+    "title": "On Profiling Bots in Social Media",
+    "authors": [
+      "Richard Jayadi Oentaryo",
+      "Arinto Murdopo",
+      "Philips Kokoh Prasetyo",
+      "Ee-Peng Lim"
+    ],
+    "summary": "The popularity of social media platforms such as Twitter has led to the\nproliferation of automated bots, creating both opportunities and challenges in\ninformation dissemination, user engagements, and quality of services. Past\nworks on profiling bots had been focused largely on malicious bots, with the\nassumption that these bots should be removed. In this work, however, we find\nmany bots that are benign, and propose a new, broader categorization of bots\nbased on their behaviors. This includes broadcast, consumption, and spam bots.\nTo facilitate comprehensive analyses of bots and how they compare to human\naccounts, we develop a systematic profiling framework that includes a rich set\nof features and classifier bank. We conduct extensive experiments to evaluate\nthe performances of different classifiers under varying time windows, identify\nthe key features of bots, and infer about bots in a larger Twitter population.\nOur analysis encompasses more than 159K bot and human (non-bot) accounts in\nTwitter. The results provide interesting insights on the behavioral traits of\nboth benign and malicious bots.",
+    "pdf_url": "http://arxiv.org/pdf/1609.00543v1",
+    "published": "2016-09-02"
+  }
+}

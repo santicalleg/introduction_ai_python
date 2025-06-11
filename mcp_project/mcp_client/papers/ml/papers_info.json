@@ -1,0 +1,26 @@
+{
+  "2211.05075v1": {
+    "title": "Supporting AI/ML Security Workers through an Adversarial Techniques, Tools, and Common Knowledge (AI/ML ATT&CK) Framework",
+    "authors": [
+      "Mohamad Fazelnia",
+      "Ahmet Okutan",
+      "Mehdi Mirakhorli"
+    ],
+    "summary": "This paper focuses on supporting AI/ML Security Workers -- professionals\ninvolved in the development and deployment of secure AI-enabled software\nsystems. It presents AI/ML Adversarial Techniques, Tools, and Common Knowledge\n(AI/ML ATT&CK) framework to enable AI/ML Security Workers intuitively to\nexplore offensive and defensive tactics.",
+    "pdf_url": "http://arxiv.org/pdf/2211.05075v1",
+    "published": "2022-11-09"
+  },
+  "2403.08311v1": {
+    "title": "When Code Smells Meet ML: On the Lifecycle of ML-specific Code Smells in ML-enabled Systems",
+    "authors": [
+      "Gilberto Recupito",
+      "Giammaria Giordano",
+      "Filomena Ferrucci",
+      "Dario Di Nucci",
+      "Fabio Palomba"
+    ],
+    "summary": "Context. The adoption of Machine Learning (ML)--enabled systems is steadily\nincreasing. Nevertheless, there is a shortage of ML-specific quality assurance\napproaches, possibly because of the limited knowledge of how quality-related\nconcerns emerge and evolve in ML-enabled systems. Objective. We aim to\ninvestigate the emergence and evolution of specific types of quality-related\nconcerns known as ML-specific code smells, i.e., sub-optimal implementation\nsolutions applied on ML pipelines that may significantly decrease both the\nquality and maintainability of ML-enabled systems. More specifically, we\npresent a plan to study ML-specific code smells by empirically analyzing (i)\ntheir prevalence in real ML-enabled systems, (ii) how they are introduced and\nremoved, and (iii) their survivability. Method. We will conduct an exploratory\nstudy, mining a large dataset of ML-enabled systems and analyzing over 400k\ncommits about 337 projects. We will track and inspect the introduction and\nevolution of ML smells through CodeSmile, a novel ML smell detector that we\nwill build to enable our investigation and to detect ML-specific code smells.",
+    "pdf_url": "http://arxiv.org/pdf/2403.08311v1",
+    "published": "2024-03-13"
+  }
+}
